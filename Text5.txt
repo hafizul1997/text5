@@ -1,3 +1,3 @@
 this is text 5
-this is for test git push.
+this is for test master duplicate repository.
 This is a pulling from remote repository.
